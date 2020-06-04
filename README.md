@@ -244,12 +244,14 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [WizIQ](http://www.wiziq.com/)
 
 ### Notes
+* [Dynalist](https://dynalist.io/)
 * [Etherpad](http://etherpad.org/)
 * [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30)
 * [Google Keep](http://keep.google.com/)
 * [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [Papier](https://getpapier.com)
 * [Quip](https://quip.com/)
+* [Roam Research](https://roamresearch.com/)
 * [Simplenote](http://simplenote.com/)
 * [Workflowy](https://workflowy.com/)
 
@@ -350,6 +352,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Podigee](https://www.podigee.com/en/)
 * [Podomatic](https://www.podomatic.com/)
 * [Simplecast](https://simplecast.com/)
+* [Soundtrap](https://www.soundtrap.com/)
 * [Spreaker](https://www.spreaker.com/)
 * [Whooshkaa](https://www.whooshkaa.com/)
 * [Zencastr](https://zencastr.com/)
@@ -390,6 +393,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Open Broadcast Software (OBS)](https://obsproject.com)
 * [Screencast-O-Matic](https://screencast-o-matic.com)
 * [Screencastify](https://www.screencastify.com)
+* [Screenflick](https://www.araelium.com/screenflick-mac-screen-recorder)
 * [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
 * [Screenmailer](http://www.screenmailer.com)
 * [Snagit](https://www.techsmith.com/screen-capture.html)
